@@ -1,0 +1,82 @@
+.heading-text-center-my-5 h1
+{
+    margin-left:50%;
+    line-height: 7.5rem;
+    font-family: "algerian";
+    color:white;
+    
+}
+.heading-text-center-my-5 img{
+    margin-top:-5%;
+}
+.img-fluid-pt-2
+{
+    height:200px;
+    width:200px;
+    margin-left:10%;
+    margin-bottom:20%;
+}
+.img-fluid
+{
+    margin-top:10%;
+    margin-left: 20%;
+}
+.img-fluid1
+{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.Button
+{
+    margin-left: 24%;
+    background-color: grey;
+    color:white;
+    border:none;
+}
+.Button:hover
+{
+    background-color: lightgray;
+    border:1px solid black;
+    color:black;
+}
+.Button1
+{
+    margin-left:23%;
+    background-color: grey;
+    color:white;
+    border:none;
+}
+.Button1:hover
+{
+    background-color: lightgray;
+    border:1px solid black;
+    color:black;
+}
+.row-intro-p1
+{
+    height:150px;
+    background-color:grey;
+}
+.col-sm-12-col-md
+{
+    height:80px;
+    background-color:grey;
+}
+.row-activity-text-centre
+{
+    background-color:lightgrey;
+}
+.text-center-mt-5-py-2
+{
+    background-color: gray;
+    color:white;
+    text-align: center;
+    height:70px;
+
+   
+}
+.container
+{
+    background-color: lightgray;
+}
+
